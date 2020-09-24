@@ -13,10 +13,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- Available Themes
+- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+
 -->
 
 
-![Veerala's github stats](https://github-readme-stats.vercel.app/api?username=veeralakrishna&count_private=true&show_icons=true&theme=highcontrast)
+
+![Veerala's github stats](https://github-readme-stats.vercel.app/api?username=veeralakrishna&count_private=true&show_icons=true&theme=flag-india)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veeralakrishna&layout=compact)](https://github.com/veeralakrishna)
