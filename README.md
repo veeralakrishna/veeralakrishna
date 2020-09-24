@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veeralakrishna&layout=compact)](https://github.com/veeralakrishna)
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=veeralakrishna&repo=DataCamp-Project-Solutions-Python)](https://github.com/veeralakrishna/DataCamp-Project-Solutions-Python)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=veeralakrishna&repo=DataCamp-Project-Solutions-Python&theme=nightowl)](https://github.com/veeralakrishna/DataCamp-Project-Solutions-Python)
