@@ -22,9 +22,7 @@ Here are some ideas to get you started:
 
 -->
 
-```diff
-Hi,)
-```
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=Hi) `#f03c15`
 
 
 
