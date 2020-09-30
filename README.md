@@ -22,14 +22,14 @@ Here are some ideas to get you started:
 
 -->
 
-<div class="text-purple">This text is purple, <a href="#" class="text-inherit">including the link</a></div>
 
 
 
-![Veerala's github stats](https://github-readme-stats.vercel.app/api?username=veeralakrishna&count_private=true&show_icons=true&theme=graywhite)
+
+![Veerala's github stats](https://github-readme-stats.vercel.app/api?username=veeralakrishna&count_private=true&show_icons=true&theme=nightowl)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veeralakrishna&layout=compact)](https://github.com/veeralakrishna)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veeralakrishna&layout=compact&theme=nightowl)](https://github.com/veeralakrishna)
 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=veeralakrishna&repo=DataCamp-Project-Solutions-Python&theme=nightowl)](https://github.com/veeralakrishna/DataCamp-Project-Solutions-Python)
