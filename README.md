@@ -2,6 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/veeralakrishna?style=flat&label=Follow&maxAge=2592000)](https://github.com/veeralakrishna?tab=followers)
 ![Profile views](https://gpvc.arturio.dev/veeralakrishna)
+[![GitHub User's stars](https://img.shields.io/github/stars/veeralakrishna)](https://github.com/veeralakrishna)
 
 
 <!--
