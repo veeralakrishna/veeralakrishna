@@ -4,7 +4,7 @@
 ![Profile views](https://gpvc.arturio.dev/veeralakrishna)
 [![GitHub User's stars](https://img.shields.io/github/stars/veeralakrishna)](https://github.com/veeralakrishna)
 
-
+I like experimenting with new technologies, building small projects, and occassionally joining hackathons. ✨
 
 
 
