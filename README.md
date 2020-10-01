@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/veeralakrishna.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/veeralakrishna?tab=followers)
-
+![GitHub followers](https://img.shields.io/github/followers/veeralakrishna?style=flat-square)
 ![Profile views](https://gpvc.arturio.dev/veeralakrishna)
 
 
