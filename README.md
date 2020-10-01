@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/veeralakrishna.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/veeralakrishna?tab=followers)
-[![GitHub forks](https://img.shields.io/github/forks/veeralakrishna/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/veeralakrishna/DataCamp-Project-Solutions-Python)
+
+![Profile views](https://gpvc.arturio.dev/veeralakrishna)
+
+
 <!--
 **veeralakrishna/veeralakrishna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
