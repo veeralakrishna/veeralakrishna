@@ -60,15 +60,9 @@ Here are some ideas to get you started:
 <hr>
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
-
   <p align="center">
     <a href="https://www.linkedin.com/in/veeralakrishna/" alt="Linkedin"><img src="hhttps://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="mailto:veeralakrishna@gmail.com" alt="Contact me"><img src="https://img.shields.io/badge/gmail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
-  
-  <p align="center">
-    <a href="http://hits.dwyl.com/jayehernandez/jayehernandez">
-      <img align="center" src="http://hits.dwyl.com/jayehernandez/jayehernandez.svg">
-    </a>
+    <a href="mailto:veeralakrishna@gmail.com" alt="Contact me"><img src="https://img.shields.io/badge/gmail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white">
   </p>
 </p>
 
