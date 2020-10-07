@@ -1,10 +1,10 @@
-## WOrk in Progress
+-------------------------------
+------------------------------------------
 
-![](https://github.com/veeralakrishna/veeralakrishna/blob/master/readme/green.png?raw=true)
+<h1 align="center">Hi 👋, I'm Hari</h1>
+<h3 align="center">A passionate Data Scientist from India</h3>
 
-[![GitHub followers](https://img.shields.io/github/followers/veeralakrishna?style=flat&label=Follow&maxAge=2592000)](https://github.com/veeralakrishna?tab=followers)
-![Profile views](https://gpvc.arturio.dev/veeralakrishna)
-[![GitHub User's stars](https://img.shields.io/github/stars/veeralakrishna)](https://github.com/veeralakrishna)
+
 
 I like experimenting with new technologies, building small projects, and occassionally joining hackathons. ✨
 
@@ -64,11 +64,7 @@ Here are some ideas to get you started:
 
 
 
--------------------------------
-------------------------------------------
 
-<h1 align="center">Hi 👋, I'm Hari</h1>
-<h3 align="center">A passionate Data Science Enthusiast from India</h3>
 
 
 - 🌱 I’m currently learning **Deep Learning, Computer Vision**
@@ -88,6 +84,10 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+[![GitHub followers](https://img.shields.io/github/followers/veeralakrishna?style=flat&label=Follow&maxAge=2592000)](https://github.com/veeralakrishna?tab=followers)
+![Profile views](https://gpvc.arturio.dev/veeralakrishna)
+[![GitHub User's stars](https://img.shields.io/github/stars/veeralakrishna)](https://github.com/veeralakrishna)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veeralakrishna&layout=compact" alt="veeralakrishna" /></p>
 
