@@ -60,6 +60,7 @@ Here are some ideas to get you started:
 <hr>
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
+  
   <p align="center">
     <a href="https://www.linkedin.com/in/veeralakrishna/" alt="Linkedin"><img src="hhttps://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://www.kaggle.com/veeralakrishna/" alt="Linkedin"><img src="https://img.shields.io/badge/kaggle-%230077B5.svg?&style=for-the-badge&logo=kaggle&logoColor=white"></a>
