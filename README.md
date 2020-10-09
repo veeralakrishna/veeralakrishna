@@ -65,6 +65,7 @@ Here are some ideas to get you started:
     <a href="https://www.linkedin.com/in/veeralakrishna/" alt="Linkedin"><img src="hhttps://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://www.kaggle.com/veeralakrishna/" alt="Kaggle"><img src="https://img.shields.io/badge/kaggle-%230077B5.svg?&style=for-the-badge&logo=kaggle&logoColor=white"></a>
     <a href="mailto:veeralakrishna@gmail.com" alt="Contact me"><img src="https://img.shields.io/badge/gmail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=red"></a>
+    <a href="https://www.linkedin.com/in/veeralakrishna/" alt="Linkedin"><img src="hhttps://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
   </p>
 </p>
 
