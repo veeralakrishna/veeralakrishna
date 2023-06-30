@@ -21,10 +21,21 @@
   <img src="https://img.shields.io/badge/Pandas-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/Matplotlib-%23FF6F00.svg?&style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
   <img src="https://img.shields.io/badge/Seaborn-%2370398C.svg?&style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn">
+  <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?&style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly">
+  <img src="https://img.shields.io/badge/Altair-%237F77D9.svg?&style=for-the-badge&logo=altair&logoColor=white" alt="Altair">
+  <img src="https://img.shields.io/badge/Bokeh-%23F37626.svg?&style=for-the-badge&logo=bokeh&logoColor=white" alt="Bokeh">
+  <img src="https://img.shields.io/badge/H3-%230A53B0.svg?&style=for-the-badge&logo=h3&logoColor=white" alt="H3">
+  <img src="https://img.shields.io/badge/CausalInference-%230F3879.svg?&style=for-the-badge&logo=causal-inference&logoColor=white" alt="CausalInference">
+  <img src="https://img.shields.io/badge/CausalML-%23248EE5.svg?&style=for-the-badge&logo=causalml&logoColor=white" alt="CausalML">
+  <img src="https://img.shields.io/badge/Synthetic%20Control-%23E24329.svg?&style=for-the-badge&logo=synthetic-control&logoColor=white" alt="Synthetic Control">
+  <img src="https://img.shields.io/badge/Streamlit-%23576E95.svg?&style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
+  <img src="https://img.shields.io/badge/GeoPandas-%2354895E.svg?&style=for-the-badge&logo=geopandas&logoColor=white" alt="GeoPandas">  
+  <img src="https://img.shields.io/badge/Folium-%23513B22.svg?&style=for-the-badge&logo=folium&logoColor=white" alt="Folium">
   <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
   <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
   <img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  
 
 </p>
 
@@ -41,6 +52,15 @@
 -   ⏰ **Unveiling the Passage of Time**: Decoding the enigmatic realm of Time Series Analysis.
 -   🧮 **Neural Networks & Deep Learning**: Delving into the depths of neural networks to unlock the true potential of AI.
 -   📡 **Unleashing the Power of Big Data**: Taming colossal data sets with dexterous proficiency.
+
+
+-----
+
+
+<h2 align="center">📈 GitHub Stats</h2>  
+
+<p align="center">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veeralakrishna&layout=compact&hide_border=true" alt="Top Languages" />  </p>  <p align="center">  <img src="https://github-readme-stats.vercel.app/api?username=veeralakrishna&show_icons=true&hide_border=true" alt="GitHub Stats" />  </p> 
+
 
 ----------
 
