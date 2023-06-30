@@ -31,6 +31,24 @@
   <img src="https://img.shields.io/badge/Streamlit-%23576E95.svg?&style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
   <img src="https://img.shields.io/badge/GeoPandas-%2354895E.svg?&style=for-the-badge&logo=geopandas&logoColor=white" alt="GeoPandas">  
   <img src="https://img.shields.io/badge/Folium-%23513B22.svg?&style=for-the-badge&logo=folium&logoColor=white" alt="Folium">
+  <img src="https://img.shields.io/badge/NLTK-%2318A0E4.svg?&style=for-the-badge&logo=nltk&logoColor=white" alt="NLTK">
+  <img src="https://img.shields.io/badge/SpaCy-%2339A03A.svg?&style=for-the-badge&logo=spaCy&logoColor=white" alt="spaCy">
+  <img src="https://img.shields.io/badge/Gensim-%234D96B0.svg?&style=for-the-badge&logo=gensim&logoColor=white" alt="Gensim">
+  <img src="https://img.shields.io/badge/Surprise-%2355ACEE.svg?&style=for-the-badge&logo=surprise&logoColor=white" alt="Surprise">
+  <img src="https://img.shields.io/badge/Featuretools-%23FF6600.svg?&style=for-the-badge&logo=featuretools&logoColor=white" alt="Featuretools">
+  <img src="https://img.shields.io/badge/Optuna-%238B008B.svg?&style=for-the-badge&logo=optuna&logoColor=white" alt="Optuna">
+  <img src="https://img.shields.io/badge/SciPy-%238CAAE6.svg?&style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy">
+  <img src="https://img.shields.io/badge/StatsModels-%232E64A5.svg?&style=for-the-badge&logo=statsmodels&logoColor=white" alt="StatsModels">
+  <img src="https://img.shields.io/badge/Prophet-%231E3C72.svg?&style=for-the-badge&logo=prophet&logoColor=white" alt="Prophet">
+  <img src="https://img.shields.io/badge/NetworkX-%23075B9A.svg?&style=for-the-badge&logo=networkx&logoColor=white" alt="NetworkX">
+  <img src="https://img.shields.io/badge/XGBoost-%2333AADD.svg?&style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost">
+  <img src="https://img.shields.io/badge/LightGBM-%23377316.svg?&style=for-the-badge&logo=lightgbm&logoColor=white" alt="LightGBM">
+  <img src="https://img.shields.io/badge/CatBoost-%23FF6600.svg?&style=for-the-badge&logo=catboost&logoColor=white" alt="CatBoost">
+  <img src="https://img.shields.io/badge/OpenCV-%235C3EE8.svg?&style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
+  <img src="https://img.shields.io/badge/SQLAlchemy-%23FCA121.svg?&style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy">
+  <img src="https://img.shields.io/badge/BeautifulSoup-%236600CC.svg?&style=for-the-badge&logo=beautifulsoup&logoColor=white" alt="BeautifulSoup">
+  <img src="https://img.shields.io/badge/Requests-%233776AB.svg?&style=for-the-badge&logo=requests&logoColor=white" alt="Requests">
+  <img src="https://img.shields.io/badge/Scrapy-%23FF6600.svg?&style=for-the-badge&logo=scrapy&logoColor=white" alt="Scrapy">
   <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
   <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
   <img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git">
