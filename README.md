@@ -87,6 +87,9 @@
 [![Ailurophile](https://github-readme-stackoverflow.vercel.app/?userID=14045537&theme=dark)](https://stackoverflow.com/users/14045537/ailurophile)
 
 
+
+
+
 ----------
 
 <h2 align="center">🔮 Connect & Join the Journey</h2>  <p align="center"> <a href="https://twitter.com/veeralakrishna" target="_blank"><img src="https://img.shields.io/twitter/follow/veeralakrishna?style=social" alt="Twitter" /></a> <a href="https://www.linkedin.com/in/veeralakrishna" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://kaggle.com/veeralakrishna" target="_blank"><img src="https://img.shields.io/badge/kaggle-%230077B5.svg?&style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a> <a href="https://www.datacamp.com/profile/veeralakrishna" target="_blank"><img src="https://img.shields.io/badge/datacamp-%230077B5.svg?&style=for-the-badge&logo=datacamp&logoColor=white" alt="Datacamp" /></a> <a href="mailto:veeralakrishna@gmail.com" alt="Contact me"><img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a> </p>
