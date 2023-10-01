@@ -86,7 +86,9 @@
 
 [![Ailurophile](https://github-readme-stackoverflow.vercel.app/?userID=14045537&theme=dark)](https://stackoverflow.com/users/14045537/ailurophile)
 
+-----------
 
+![Snake animation](https://github.com/veeralakrishna/veeralakrishna/blob/output/github-contribution-grid-snake.svg)
 
 
 
