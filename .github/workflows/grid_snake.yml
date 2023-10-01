@@ -1,4 +1,4 @@
-name: Generate Datas
+name: Grid Snake
 on:
   schedule: # execute every 12 hours
     - cron: "* */12 * * *"
