@@ -88,7 +88,9 @@
 
 -----------
 
-![Snake animation](https://github.com/veeralakrishna/veeralakrishna/blob/output/github-contribution-grid-snake.svg)
+<!-- HTML -->
+<img src="./kaggle-badges/CompetitionsRank/plastic-black.svg" />
+<img src="./kaggle-plates/Competitions/white.svg" />
 
 
 
