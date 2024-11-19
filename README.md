@@ -84,13 +84,12 @@
 
 ---------
 
-[![Ailurophile](https://github-readme-stackoverflow.vercel.app/?userID=14045537&theme=dark)](https://stackoverflow.com/users/14045537/ailurophile)
 
------------
+|                                                                 **_Stackoverflow_**                                                                |                                                         **_Kaggle_**                                                         |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|
+| [![Ailurophile](https://github-readme-stackoverflow.vercel.app/?userID=14045537&theme=dark)](https://stackoverflow.com/users/14045537/ailurophile) | <img src="./kaggle-badges/CompetitionsRank/plastic-black.svg" /><br><br><img src="./kaggle-plates/Competitions/white.svg" /> |
 
-<!-- HTML -->
-<img src="./kaggle-badges/CompetitionsRank/plastic-black.svg" />
-<img src="./kaggle-plates/Competitions/white.svg" />
+
 
 
 
