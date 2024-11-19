@@ -1,6 +1,8 @@
-<h1 align="center">Hello, I'm Hari</h1> <h3 align="center">A Curious Data Wizard 🧙‍♂️ | Dreamer | Explorer 🚀</h3>  <p align="center"> <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Data Science GIF" width="400" /> </p>  <p align="center">Welcome to my Enchanted Data Forest! 🌳🌌</p>
+<h1 align="center">Hello, I'm Hari</h1> <h3 align="center">A Curious Data Wizard 🧙‍♂️ | Dreamer | Explorer 🚀</h3>  
 
-----------
+<p align="center">Welcome to my Enchanted Data Forest! 🌳🌌</p>
+
+
 
 <h2 align="center">👨‍💻 About Me</h2>  <p align="center">Hello, fellow travelers of the digital realm! I am Hari, a passionate Data Scientist hailing from the mystical lands of India. My journey began with a spark of curiosity, and now, I wield the powers of data to uncover hidden insights and solve captivating challenges.</p>  <p align="center">From brewing complex machine learning potions to casting data-driven spells for predictive modeling, I embark on thrilling adventures through the vast landscapes of the Data Kingdom.</p>  <p align="center">Come, join me as we traverse the wondrous world of data and unravel its mysteries together! ✨🔮</p>
 
@@ -87,16 +89,12 @@
 
 |                                                                 **_Stackoverflow_**                                                                |                                                         **_Kaggle_**                                                         |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------:|
-| [![Ailurophile](https://github-readme-stackoverflow.vercel.app/?userID=14045537&theme=dark)](https://stackoverflow.com/users/14045537/ailurophile) | <img src="./kaggle-badges/CompetitionsRank/plastic-black.svg" /><br><br><img src="./kaggle-plates/Competitions/white.svg" /> |
+| [![Ailurophile](https://github-readme-stackoverflow.vercel.app/?userID=14045537&theme=dark)](https://stackoverflow.com/users/14045537/ailurophile) | <img src="./kaggle-badges/CompetitionsRank/plastic-black.svg" /><br><br><img src="./kaggle-plates/Competitions/white.svg" width="160"/> |
 
 
 
-
-
-----------
 
 <h2 align="center">🔮 Connect & Join the Journey</h2>  <p align="center"> <a href="https://twitter.com/veeralakrishna" target="_blank"><img src="https://img.shields.io/twitter/follow/veeralakrishna?style=social" alt="Twitter" /></a> <a href="https://www.linkedin.com/in/veeralakrishna" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://kaggle.com/veeralakrishna" target="_blank"><img src="https://img.shields.io/badge/kaggle-%230077B5.svg?&style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a> <a href="https://www.datacamp.com/profile/veeralakrishna" target="_blank"><img src="https://img.shields.io/badge/datacamp-%230077B5.svg?&style=for-the-badge&logo=datacamp&logoColor=white" alt="Datacamp" /></a> <a href="mailto:veeralakrishna@gmail.com" alt="Contact me"><img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a> </p>
 
-----------
 
 <i><p align="center">Let's embark on a grand adventure through the mystical realm of Data Science! 🌍🔍📊📈🤖</p></i>
